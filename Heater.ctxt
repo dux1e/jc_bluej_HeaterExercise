@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Heater
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Heater\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=min\ max
+comment1.target=Heater(double,\ double)
+comment2.params=
+comment2.target=void\ warmer()
+comment3.params=
+comment3.target=void\ cooler()
+comment4.params=newIncrement
+comment4.target=void\ setIncrement(double)
+comment5.params=
+comment5.target=double\ getTemperature()
+comment6.params=
+comment6.target=double\ getIncrement()
+numComments=7
